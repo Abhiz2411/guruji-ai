@@ -17,7 +17,7 @@ A **minimal yet fully-featured AI-powered live teaching app** built to transform
 - **📷 Live Camera Feed**: Automatically selects the environment-facing camera for better visibility.  
 - **🖼️ Image Capture**: Simple, intuitive button for image capture.  
 - **🔍 OCR Processing**: Powered by Tesseract.js for local text recognition.  
-- **🧠 AI-Powered Solutions**: Generates solutions using `gpt-4o-realtime-preview-2024-12-17`.  
+- **🧠 AI-Powered Solutions**: Generates solutions using `gpt-4o-realtime-preview`.  
 - **🎨 Clean UI**: Responsive design with helpful loading states.  
 - **⚡ Error Handling**: Robust error detection and user notifications at every step.  
 

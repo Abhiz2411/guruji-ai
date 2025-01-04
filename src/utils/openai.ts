@@ -8,7 +8,7 @@ const openai = new OpenAI({
 export async function getSolution(text: string): Promise<string> {
   try {
     const response = await openai.chat.completions.create({
-      model: 'gpt-4',
+      model: 'gpt-4o-realtime-preview',
       messages: [
         {
           role: 'system',
