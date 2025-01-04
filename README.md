@@ -39,6 +39,11 @@ A **minimal yet fully-featured AI-powered live teaching app** built to transform
 3. **Processing Magic**: The app processes the image (OCR → AI) and generates the solution.  
 4. **View Results**: The solution appears below the camera feed. 🎉  
 
+![Preview of AI Live Teacher Input](assets/01_first_preview.png)
+![Preview of AI Live Teacher Input](assets/02_second_preview.png)
+![Preview of AI Live Teacher Input](assets/03_third_preview.png)
+![Preview of AI Live Teacher Output](assets/04_fourth_preview.png)
+
 ---
 
 ## 🛠️ Tech Stack  
