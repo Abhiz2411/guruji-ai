@@ -5,6 +5,13 @@ A **minimal yet fully-featured AI-powered live teaching app** built to transform
 
 ---  
 
+## 🔍 Preview  
+
+![Preview of AI Live Teacher Input](assets/02_second_preview.png)
+![Preview of AI Live Teacher Output](assets/04_fourth_preview.png)
+
+---
+
 ## 🚀 Features  
 
 - **📷 Live Camera Feed**: Automatically selects the environment-facing camera for better visibility.  
