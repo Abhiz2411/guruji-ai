@@ -61,7 +61,7 @@ function App() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <GraduationCap className="w-8 h-8 text-blue-600" />
-            <h1 className="text-3xl font-bold text-gray-800">AI Live Teacher</h1>
+            <h1 className="text-3xl font-bold text-gray-800">Guruji AI</h1>
           </div>
           <p className="text-gray-600">
             Show your problem to the camera and get instant solutions
